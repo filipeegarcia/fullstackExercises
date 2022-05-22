@@ -1,4 +1,4 @@
-# Exercise 1
+# Exercise 4
 
 For this exercise, I used typescript to solve the problem, so you can review my resolution on the file `index.ts`.
 
